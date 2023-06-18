@@ -3,7 +3,7 @@ import "./assets/style/style.scss";
 
 import { Button, Layout, Menu, theme } from "antd";
 import { useState } from "react";
-const { Header, Sider, Content } = Layout;
+const {   Content } = Layout;
 
 const AdminPage = () => {
     const {
